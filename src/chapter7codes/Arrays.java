@@ -1,3 +1,5 @@
+package chapter7codes;
+
 public class Arrays {
     public static void main(String [] args){
         int []numbers = {1,2,5,7,3,8,9};

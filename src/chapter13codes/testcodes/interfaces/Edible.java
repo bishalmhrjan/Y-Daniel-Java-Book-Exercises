@@ -1,2 +1,5 @@
-package chapter13codes.testcodes.interfaces;public class Edible {
+package chapter13codes.testcodes.interfaces;
+
+public interface Edible {
+    public abstract  String hotToEat();
 }

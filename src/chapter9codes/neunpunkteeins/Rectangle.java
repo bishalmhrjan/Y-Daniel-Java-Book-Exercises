@@ -1,6 +1,8 @@
-package chapter9codes;
+package chapter9codes.neunpunkteeins;
 
-public class Rectangle {
+import chapter13codes.testcodes.GeometricObject;
+
+public class Rectangle extends GeometricObject {
     private double width ;
     private double height;
 

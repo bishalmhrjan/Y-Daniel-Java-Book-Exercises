@@ -1,4 +1,4 @@
-package chapter13codes.testcodes.genericdesignandimplementation;
+package chapter19codes.genericdesignandimplementation;
 
 import java.util.ArrayList;
 
@@ -22,7 +22,7 @@ public class GenericStack<E> {
         list.add(o);
     }
 
-    public E pop(E o){
+    public E pop(){
         return list.remove(list.size()-1);
     }
 

@@ -1,2 +1,4 @@
-package chapter12codes.exercisecodes;public class ArrayIndexOutBoundExcep {
+package chapter12codes.exercisecodes.punktezwei;
+
+public class ArrayIndexOutBoundExcep {
 }

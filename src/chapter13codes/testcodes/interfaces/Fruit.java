@@ -1,2 +1,5 @@
-package chapter13codes.testcodes.interfaces;public class Fruit {
+package chapter13codes.testcodes.interfaces;
+
+public abstract class Fruit implements Edible {
+
 }

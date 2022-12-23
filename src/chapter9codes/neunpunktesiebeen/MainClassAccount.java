@@ -1,2 +1,4 @@
-package chapter9codes;public class MainClassAccount {
+package chapter9codes.neunpunktesiebeen;
+
+public class MainClassAccount {
 }

@@ -1,4 +1,4 @@
-package elfpunktezwei;
+package chapter11codes.elfpunktezwei;
 
 public class Student extends Person{
 

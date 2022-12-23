@@ -1,2 +1,4 @@
-package chapter14Codes.testCodes;public class MyJavaFx {
+package chapter14Codes.testCodes;
+
+public class MyJavaFx {
 }
